@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CosmosPenguin
 - 👀 I’m interested in Astronomy
 - 🌱 I’m currently learning CSS, HTML and adbe XD
-- 📫 How to reach me 
+- 📫 How to reach me sh1119@kywa.or.kr
 
 <!---
 CosmosPenguin/CosmosPenguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
