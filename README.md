@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CosmosPenguin
 - 👀 I’m interested in Astronomy
-- 🌱 I’m currently learning CSS, HTML and adbe XD
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me sh1119@kywa.or.kr
 
 <!---
